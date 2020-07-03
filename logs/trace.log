@@ -1,0 +1,15 @@
+Вызвали функцию с именем "hello_world"
+c аргументами "(1, 2)" и "{}"
+Время старта: 2020-07-03 16:22:26.947709
+Возвращаемое значение: "hello world"
+________________________________
+Вызвали функцию с именем "get_country_official_name"
+c аргументами "(10,)" и "{}"
+Время старта: 2020-07-03 16:22:26.947833
+Возвращаемое значение: "['Aruba', 'Islamic Republic of Afghanistan', 'Republic of Angola', 'Anguilla', 'Åland Islands', 'Republic of Albania', 'Principality of Andorra', 'United Arab Emirates', 'Argentine Republic', 'Republic of Armenia']"
+________________________________
+Вызвали функцию с именем "get_country_official_name"
+c аргументами "(15,)" и "{}"
+Время старта: 2020-07-03 16:22:59.276205
+Возвращаемое значение: "['Aruba', 'Islamic Republic of Afghanistan', 'Republic of Angola', 'Anguilla', 'Åland Islands', 'Republic of Albania', 'Principality of Andorra', 'United Arab Emirates', 'Argentine Republic', 'Republic of Armenia', 'American Samoa', 'Antarctica', 'Territory of the French Southern and Antarctic Lands', 'Antigua and Barbuda', 'Commonwealth of Australia']"
+________________________________
