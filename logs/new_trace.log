@@ -1,0 +1,5 @@
+Вызвали функцию с именем "get_country_official_name"
+c аргументами "(15,)" и "{}"
+Время старта: 2020-07-10 13:55:55.808741
+Возвращаемое значение: "['Aruba', 'Islamic Republic of Afghanistan', 'Republic of Angola', 'Anguilla', 'Åland Islands', 'Republic of Albania', 'Principality of Andorra', 'United Arab Emirates', 'Argentine Republic', 'Republic of Armenia', 'American Samoa', 'Antarctica', 'Territory of the French Southern and Antarctic Lands', 'Antigua and Barbuda', 'Commonwealth of Australia']"
+________________________________

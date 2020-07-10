@@ -1,8 +1,10 @@
 import json
 import wikipediaapi
-from Decorators import logger
+# from Decorators import logger
+from Decorators import parametrized_logger
 
-@logger
+# @logger
+@parametrized_logger('logs/new_trace.log')
 def get_country_official_name(country_count):
     with open('countries.json', encoding='utf-8') as countries_data:
         country = json.load(countries_data)
